@@ -9,14 +9,7 @@ variables:
       required: false
       type: array
       default:
-        - cis-dil-benchmark
-  AUDIT_AGENT_PROFILES_ALERT_LIST:
-      required: false
-      type: array
-      default:
-        - cis-dil-benchmark
-        - cis-docker-benchmark
-        - cis-kubernetes-benchmark        
+        - cis-dil-benchmark      
   HTML_REPORT_SUBJECT:
     required: false
     type: string
