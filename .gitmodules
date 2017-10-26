@@ -1,0 +1,12 @@
+[submodule "stack-audit-aws-cis/extends"]
+	path = stack-audit-aws-cis/extends
+	url = git@github.com:CloudCoreo/audit-aws-cis.git
+	branch = master
+[submodule "stack-audit-endpoints-cis/extends"]
+	path = stack-audit-endpoints-cis/extends
+	url = git@github.com:CloudCoreo/audit-endpoints-cis.git
+	branch = master
+[submodule "stack-audit-applications-cis/extends"]
+	path = stack-audit-applications-cis/extends
+	url = git@github.com:CloudCoreo/audit-applications-cis.git
+	branch = master
